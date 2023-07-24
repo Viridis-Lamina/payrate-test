@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payrate test", "payrate test\payrate test.csproj", "{CF16A099-DF7B-42B7-8E41-B4092EC82FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF16A099-DF7B-42B7-8E41-B4092EC82FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF16A099-DF7B-42B7-8E41-B4092EC82FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF16A099-DF7B-42B7-8E41-B4092EC82FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF16A099-DF7B-42B7-8E41-B4092EC82FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A440C0C7-E199-45A8-953A-2CF9B02B1721}
+	EndGlobalSection
+EndGlobal
